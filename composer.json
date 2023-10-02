@@ -1,0 +1,13 @@
+{
+    "name": "name/integracao-facebook-conversion-api",
+    "type": "project",
+    "require": {
+        "facebook/php-business-sdk": "^8.0.3"
+    },
+    "authors": [
+        {
+            "name": "Pedro Mack Navarro",
+            "email": "pemnavarro@hotmail.com"
+        }
+    ]
+}
